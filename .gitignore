@@ -1,0 +1,6 @@
+# Bob internal files
+.bob/
+ai-powered-signal-quality-analyzer-architecture-blueprint.html
+
+# Local API key — never commit
+config.js
